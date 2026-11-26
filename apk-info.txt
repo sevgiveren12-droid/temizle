@@ -1,0 +1,13 @@
+-rw-r--r-- 1 runner runner 18382907 Nov 26 00:27 app/build/outputs/apk/release/app-release.apk
+package: name='app.temizle' versionCode='2' versionName='1.0.2' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+targetSdkVersion:'35'
+uses-permission: name='android.permission.MANAGE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.PACKAGE_USAGE_STATS'
+uses-permission: name='android.permission.QUERY_ALL_PACKAGES'
+uses-permission: name='android.permission.REQUEST_DELETE_PACKAGES'
+uses-permission: name='app.temizle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'
+application-label:'Temizle'
+V2 Signer: certificate DN: CN=Temizle, O=Temp
+V2 Signer: certificate SHA-256 digest: 4d8af898881d646737e1b9979824303886d196e9a978c6ee791945176eed36cd
+V2 Signer: certificate SHA-1 digest: df52ef641acedb58ad1fa6d8d3fde11c50f1f60b
+V2 Signer: certificate MD5 digest: 3b68c2f382a02bf76b94b386601877be
